@@ -50,3 +50,4 @@ qiime dada2 denoise-paired \
  --p-n-threads 0 \
  --verbose
 
+Still running.... start 8.3.18 6pm
